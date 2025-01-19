@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Bonsai 16x",
+        "description": "Bonsai texture pack for Minecraft 1.8",
+        "download_url": "https://github.com/AstraClientOrg/Texture-Packs/raw/refs/heads/main/Bonsai.zip",
+        "icon_url": "Astra/textures/gui/resourcepacks/bonsai_icon.png"
+    },
+    {
+        "name": "Oasis 16x",
+        "description": "Oasis texture pack for Minecraft 1.8",
+        "download_url": "https://github.com/AstraClientOrg/Texture-Packs/raw/refs/heads/main/Oasis.zip",
+        "icon_url": "Astra/textures/gui/resourcepacks/oasis_icon.png"
+    },
+    {
+        "name": "Bare Bones 16x",
+        "description": "Bare Bones texture pack for Minecraft 1.8",
+        "download_url": "https://github.com/AstraClientOrg/Texture-Packs/raw/refs/heads/main/BareBones.zip",
+        "icon_url": "Astra/textures/gui/resourcepacks/barebones_icon.png"
+    },
+    {
+        "name": "Nico Fruit 16x",
+        "description": "Nico Fruit texture pack for Minecraft 1.8",
+        "download_url": "https://github.com/AstraClientOrg/Texture-Packs/raw/refs/heads/main/NicoFruitRemix.zip",
+        "icon_url": "Astra/textures/gui/resourcepacks/nico_fruit_icon.png"
+    },
+    {
+        "name": "Novis 16x",
+        "description": "Novis texture pack for Minecraft 1.8",
+        "download_url": "https://github.com/AstraClientOrg/Texture-Packs/raw/refs/heads/main/Novis.zip",
+        "icon_url": "Astra/textures/gui/resourcepacks/novis_icon.png"
+    },
+    {
+        "name": "Faithful 64x",
+        "description": "Faithful texture pack for Minecraft 1.8",
+        "download_url": "https://github.com/AstraClientOrg/Texture-Packs/raw/refs/heads/main/Faithful.zip",
+        "icon_url": "Astra/textures/gui/resourcepacks/faithful_icon.png"
+    },
+    {
+        "name": "Pain PvP 32x",
+        "description": "Pain PvP texture pack for Minecraft 1.8",
+        "download_url": "https://github.com/AstraClientOrg/Texture-Packs/raw/refs/heads/main/PainPvP.zip",
+        "icon_url": "Astra/textures/gui/resourcepacks/painpvp_icon.png"
+    },
+    {
+        "name": "Zoudy Fault 16x",
+        "description": "Zoudy Fault texture pack for Minecraft 1.8",
+        "download_url": "https://github.com/AstraClientOrg/Texture-Packs/raw/refs/heads/main/ZoudyFault.zip",
+        "icon_url": "Astra/textures/gui/resourcepacks/zoudy_fault_icon.png"
+    }
+]
